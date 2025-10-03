@@ -1,0 +1,5 @@
+Let's generate a production-ready, modular, and maintainable Python service following the given architectural recommendations and business requirements:
+
+## Project Structure
+
+## 1. Authentication Service
